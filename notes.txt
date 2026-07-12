@@ -1,0 +1,9 @@
+types of error encountered during the framework development
+
+1) if you are working with pandas and trying to convert/access a csv/.txt file, we have to mention encoding as "cp1252" for windows
+if not we will see unicode decode codec error
+
+2) type error - in a testcase/function in pytest, if we dont mention self keyword in that class we may encounter type error
+
+3) permission error - when we are trying to access a file/excel/word in our program which is open in another application then we
+may come across permission error/ permission denied

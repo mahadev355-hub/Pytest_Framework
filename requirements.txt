@@ -1,0 +1,12 @@
+selenium
+pytest
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+pytest-repeat
+pytest-order
+pytest-depends
+pytest-dependency
+pytest-smoke
+logging
