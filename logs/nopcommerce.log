@@ -106,3 +106,9 @@
 12-Jul-26 17:45:10 - root - INFO - ****valid-admin-test-passed-successfully****
 12-Jul-26 17:45:12 - root - INFO - ****invalid-admin-test-started****
 12-Jul-26 17:45:13 - root - INFO - ****invalid-admin-test-passed-successfully****
+13-Jul-26 20:04:41 - root - INFO - ****title-verification-started****
+13-Jul-26 20:04:41 - root - INFO - ****title_verified-successfully****
+13-Jul-26 20:04:44 - root - INFO - ****valid-admin-test-started****
+13-Jul-26 20:04:46 - root - INFO - ****valid-admin-test-passed-successfully****
+13-Jul-26 20:04:49 - root - INFO - ****invalid-admin-test-started****
+13-Jul-26 20:04:51 - root - INFO - ****invalid-admin-test-passed-successfully****
