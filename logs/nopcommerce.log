@@ -112,3 +112,9 @@
 13-Jul-26 20:04:46 - root - INFO - ****valid-admin-test-passed-successfully****
 13-Jul-26 20:04:49 - root - INFO - ****invalid-admin-test-started****
 13-Jul-26 20:04:51 - root - INFO - ****invalid-admin-test-passed-successfully****
+20-Jul-26 18:36:13 - root - INFO - ****title-verification-started****
+20-Jul-26 18:36:13 - root - INFO - ****title_verified-successfully****
+20-Jul-26 18:36:17 - root - INFO - ****valid-admin-test-started****
+20-Jul-26 18:36:18 - root - INFO - ****valid-admin-test-passed-successfully****
+20-Jul-26 18:36:22 - root - INFO - ****invalid-admin-test-started****
+20-Jul-26 18:36:23 - root - INFO - ****invalid-admin-test-passed-successfully****

@@ -10,3 +10,4 @@ pytest-depends
 pytest-dependency
 pytest-smoke
 logging
+langchain
